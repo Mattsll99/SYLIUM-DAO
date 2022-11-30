@@ -1,1 +1,1 @@
-# Repository for the SYLIUM protocol
+# White paper 
